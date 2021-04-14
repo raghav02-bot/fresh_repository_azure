@@ -1,0 +1,128 @@
+#raghav
+{
+background-image: url(IMAGES/backgroud.jpeg);
+background-size: cover;
+}
+#h1
+{
+    font-family:cursive;
+    color:black;
+    padding: 10px;
+    
+    
+}
+#h2
+{
+    margin-left: 10px;
+    box-sizing: border-box;
+}
+.h3
+{
+    font-family:fantasy;
+    color:black;
+
+}
+.H4
+{
+        width: 34.5%;
+}
+td
+{
+    padding: 10px;
+}
+.j6
+{
+    padding-left: 300px;
+}
+.j7
+{
+    padding-left: 500px;
+    font-family: cursive;
+    font-size: 25px;
+}
+.j8
+{
+    margin-left: 50px;
+    font-family: cursive;
+    font-size: 25px;
+}
+.abc
+{
+    background-color: beige;
+    margin-left: 43%
+}
+.wes
+{
+    padding-left: 40%;
+    border-width:medium;
+
+
+}
+.s
+{
+        border-bottom: 2px solid red;
+        margin-right: 70.5%;
+        font-family: serif;
+
+    
+}
+.ss
+{
+    padding-left: 43%;
+    border-bottom-color: firebrick;
+
+}
+li
+{
+    display:inline-flex;
+    
+}
+li:hover
+{
+    border: 3px solid black;
+    background-color: lightgrey;
+    background-size: 40px;
+}
+li:visited
+{
+color: black;
+}
+nav
+{
+    color: black;
+    font-size: 20px
+}
+header
+{
+    background-image: url(/Users/raghavkapoor/Desktop/fresh_azure/Assets/IMAGES/apple-devices.jpg);
+    background-size: cover;
+    height: 850px;
+    
+}
+a
+{
+    color: black;
+    
+}
+.ssb
+{
+    padding-left: 43%;
+    font-size: 30px;
+    font-weight: 500;
+}
+.ssa
+{
+    background-image: url(images/pngtree-pink-abstract-digital-watercolor-background-image_113901.jpg);
+    background-size: cover;
+}
+.rg
+{
+    font-family: serif;
+    font-size: 20px;
+    color: darksalmon;
+    padding-right:42%;
+}
+.jd
+{
+    padding-left: 30px;
+}
