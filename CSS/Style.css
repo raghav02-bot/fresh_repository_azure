@@ -1,6 +1,6 @@
 #raghav
 {
-background-image: url(backgroud.jpeg);
+background-image: url(Images/backgroud.jpeg);
 background-size: cover;
 }
 #h1
@@ -87,14 +87,14 @@ li:visited
 {
 color: black;
 }
-nav
+nav3
 {
     color: black;
     font-size: 20px
 }
 header
 {
-    background-image: url(apple-devices.jpg);
+    background-image: url(Images/apple-devices.jpg);
     background-size: cover;
     height: 850px;
     
@@ -112,7 +112,7 @@ a
 }
 .ssa
 {
-    background-image: url(pngtree-pink-abstract-digital-watercolor-background-image_113901.jpg);
+    background-image: url(Images/pngtree-pink-abstract-digital-watercolor-background-image_113901.jpg);
     background-size: cover;
 }
 .rg
