@@ -1,6 +1,6 @@
 #raghav
 {
-background-image: url(IMAGES/backgroud.jpeg);
+background-image: url(/Users/raghavkapoor/Desktop/fresh_azure/IMAGES/backgroud.jpeg);
 background-size: cover;
 }
 #h1
@@ -94,7 +94,7 @@ nav
 }
 header
 {
-    background-image: url(/Users/raghavkapoor/Desktop/fresh_azure/Assets/IMAGES/apple-devices.jpg);
+    background-image: url(/Users/raghavkapoor/Desktop/fresh_azure/IMAGES/apple-devices.jpg);
     background-size: cover;
     height: 850px;
     
@@ -112,7 +112,7 @@ a
 }
 .ssa
 {
-    background-image: url(images/pngtree-pink-abstract-digital-watercolor-background-image_113901.jpg);
+    background-image: url(/Users/raghavkapoor/Desktop/fresh_azure/IMAGES/pngtree-pink-abstract-digital-watercolor-background-image_113901.jpg);
     background-size: cover;
 }
 .rg
